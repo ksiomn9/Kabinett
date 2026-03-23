@@ -60,7 +60,7 @@ Kabinett은 편지의 물리적 감성을 담아낸 직관적인 인터페이스
 ## :people_holding_hands: 팀 Kabinett
 | [권도율](https://github.com/YuleGlycerine) | [김송](https://github.com/ksiomn9) | [김정우](https://github.com/JeongWo) | [김진웅](https://github.com/jinwoong16) | [석지혜](https://github.com/the-hye) | [채윤원](https://github.com/uunwon) |
 |---|---|---|---|---|---|
-| <img src="https://github.com/APP-iOS5th/Saver/assets/164737302/3bdf1c10-1c06-4696-8f9a-a61a4a73fe6b" width=180 /> | <img src="https://avatars.githubusercontent.com/u/270224119?v=4&size=64" width=180 /> | <img src="https://avatars.githubusercontent.com/u/112370814?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/26710036?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/66719957?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/48541984?v=4" width=180 /> |
+| <img src="https://github.com/APP-iOS5th/Saver/assets/164737302/3bdf1c10-1c06-4696-8f9a-a61a4a73fe6b" width=180 /> | <img src="https://avatars.githubusercontent.com/u/270224119?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/112370814?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/26710036?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/66719957?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/48541984?v=4" width=180 /> |
 
 ## :microscope: 담당
 권도율 [@YuleGlycerine](https://github.com/YuleGlycerine)
