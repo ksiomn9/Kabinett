@@ -58,9 +58,9 @@ Kabinett은 편지의 물리적 감성을 담아낸 직관적인 인터페이스
 | ![LetterView-ezgif com-speed](https://github.com/user-attachments/assets/eaf97958-6998-46f1-81ee-ebefcd2d3801) | ![WriteLetter-ezgif com-speed](https://github.com/user-attachments/assets/7fafb1a5-5d5c-42cc-8423-9ac1bc30693d) | ![SearchName-ezgif com-speed](https://github.com/user-attachments/assets/dc363677-b254-413a-8218-4a7993b216d7) | ![ezgif com-speed](https://github.com/user-attachments/assets/4ee7557a-130e-448c-8397-8f2ecfabe914) | ![LoginProfile-ezgif com-speed](https://github.com/user-attachments/assets/c446f038-79f9-4b0c-94f2-f22dd2c88aab) |
 
 ## :people_holding_hands: 팀 Kabinett
-| [권도율](https://github.com/YuleGlycerine) | [김송](https://github.com/ksiomng) | [김정우](https://github.com/JeongWo) | [김진웅](https://github.com/jinwoong16) | [석지혜](https://github.com/the-hye) | [채윤원](https://github.com/uunwon) |
+| [권도율](https://github.com/YuleGlycerine) | [김송](https://github.com/ksiomn9) | [김정우](https://github.com/JeongWo) | [김진웅](https://github.com/jinwoong16) | [석지혜](https://github.com/the-hye) | [채윤원](https://github.com/uunwon) |
 |---|---|---|---|---|---|
-| <img src="https://github.com/APP-iOS5th/Saver/assets/164737302/3bdf1c10-1c06-4696-8f9a-a61a4a73fe6b" width=180 /> | <img src="https://avatars.githubusercontent.com/u/19872750?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/112370814?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/26710036?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/66719957?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/48541984?v=4" width=180 /> |
+| <img src="https://github.com/APP-iOS5th/Saver/assets/164737302/3bdf1c10-1c06-4696-8f9a-a61a4a73fe6b" width=180 /> | <img src="https://avatars.githubusercontent.com/u/270224119?v=4&size=64" width=180 /> | <img src="https://avatars.githubusercontent.com/u/112370814?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/26710036?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/66719957?v=4" width=180 /> | <img src="https://avatars.githubusercontent.com/u/48541984?v=4" width=180 /> |
 
 ## :microscope: 담당
 권도율 [@YuleGlycerine](https://github.com/YuleGlycerine)
@@ -71,7 +71,7 @@ Kabinett은 편지의 물리적 감성을 담아낸 직관적인 인터페이스
    - 프로필 탭: 프로필 화면, 프로필 설정, 프로필 이미지 크롭, 사용자 닉네임 변경 기능, 로그아웃과 회원탈퇴
    - 로그인 플로우: 애플 로그인 기능 구현, 닉네임과 카비넷 넘버(고유번호)으로 회원 등록 / 로그인 / 비로그인 유저 구분 로직
 
-김송 [@ksiomng ](https://github.com/ksiomng)
+김송 [@ksiomn9 ](https://github.com/ksiomn9)
 * 담당 
    - 편지 쓰기 뷰 구현
 * 구현 기능
